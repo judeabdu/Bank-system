@@ -12,3 +12,18 @@ This is a simple python project that simulates a bank account system.
   Run the program:
 ......bash
 python bank-system.py
+# Python Bank System
+
+This is a simple banking system written in Python.
+
+Features:
+- Create account
+- Deposit money
+- Withdraw money
+- Check balance
+
+Technologies:
+- Python
+
+Purpose:
+This project was built to practice Python programming and object-oriented design.
