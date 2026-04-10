@@ -61,6 +61,3 @@ else:
     else:
       print("invalid choice! Please select 1-4.")
 
-from google.colab import files
-uploaded = files.upload()
-
